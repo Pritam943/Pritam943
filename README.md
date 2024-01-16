@@ -1,6 +1,6 @@
 ![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)
 <h1 align="center">Hi 👋, I'm Pritam Nayak 😊.</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam943&label=Profile%20views&color=0e75b6&style=flat" alt="pritam943" /> </p>
 <p align="left"> <a href="https://twitter.com/@pritam_sde" target="blank"><img src="https://img.shields.io/twitter/follow/@pritam_sde?logo=twitter&style=for-the-badge" alt="@pritam_sde" /></a> </p>
